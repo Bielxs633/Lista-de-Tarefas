@@ -16,4 +16,4 @@ Este é um site de lista de tarefas, onde o usuário pode adicionar, editar, mar
 - Marcar tarefas como concluídas
 - Editar tarefas
 - Excluir tarefas
-- Armazenamento local (salvamento das tarefas)
+- Armazenamento local ( salvamento das tarefas )
