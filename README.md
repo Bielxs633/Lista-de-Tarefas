@@ -17,3 +17,11 @@ Este é um site de lista de tarefas, onde o usuário pode adicionar, editar, mar
 - Editar tarefas
 - Excluir tarefas
 - Armazenamento local ( salvamento das tarefas )
+
+---
+
+## Tecnologias utilizadas
+1. HTML
+2. CSS
+3. JavaScript
+4. Git
