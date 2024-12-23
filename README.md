@@ -24,5 +24,8 @@ Este é um site de lista de tarefas, onde o usuário pode adicionar, editar, mar
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **NodeJS**
+- **ExpressJS**
+- **MySQL**
 - **Markdown**
 - **Git**
