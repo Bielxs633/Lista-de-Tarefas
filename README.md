@@ -12,16 +12,17 @@ Este é um site de lista de tarefas, onde o usuário pode adicionar, editar, mar
 ---
 
 ## Funcionalidades
-- Adicionar novas tarefas
-- Marcar tarefas como concluídas
-- Editar tarefas
-- Excluir tarefas
-- Armazenamento local ( salvamento das tarefas )
+1. Adicionar novas tarefas
+2. Marcar tarefas como concluídas
+3. Editar tarefas
+4. Excluir tarefas
+5. Armazenamento local ( salvamento das tarefas )
 
 ---
 
 ## Tecnologias utilizadas
-1. HTML
-2. CSS
-3. JavaScript
-4. Git
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Markdown**
+- **Git**
