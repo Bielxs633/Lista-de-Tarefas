@@ -12,11 +12,11 @@ Este é um site de lista de tarefas, onde o usuário pode adicionar, editar, mar
 ---
 
 ## Funcionalidades
-1. Adicionar novas tarefas
-2. Marcar tarefas como concluídas
-3. Editar tarefas
-4. Excluir tarefas
-5. Armazenamento local ( salvamento das tarefas )
+1. **Adicionar novas tarefas**
+2. **Marcar tarefas como concluídas**
+3. **Editar tarefas**
+4. **Excluir tarefas**
+5. **Armazenamento local** ( salvamento das tarefas )
 
 ---
 
